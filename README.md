@@ -1,6 +1,6 @@
 # CMAKE + GTK boilerplate
 
-run with 
+Run with:
 ```bash
-cmake . && cmake --build .
+cmake . && cmake --build . && ./cmake-gtk-boilerplate
 ```
